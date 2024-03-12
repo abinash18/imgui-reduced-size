@@ -1,0 +1,6 @@
+[submodule "modules/websocketpp"]
+	path = modules/websocketpp
+	url = https://github.com/zaphoyd/websocketpp.git
+[submodule "modules/hello-imgui"]
+	path = modules/hello-imgui
+	url = https://github.com/pthom/hello_imgui

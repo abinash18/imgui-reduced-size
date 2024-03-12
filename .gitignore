@@ -1,0 +1,11 @@
+build*/
+cmake-buiid-*/
+external/
+build/
+out/
+build.win/
+build.em/
+build.lin/
+build.mac/
+.vs/
+.vscode/
